@@ -1,0 +1,5 @@
+Hello. This project includes the investment module, organized as library, which one you can put in any project and use their classes that help you calculate investments.
+There is also a simple programm based on win forms that demonstrating usefull of the library.
+
+For all questions, please contact with author of this library:
+yuriprokopenko84@gmail.com 
